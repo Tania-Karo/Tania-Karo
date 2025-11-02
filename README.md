@@ -1,7 +1,8 @@
-## Hello! Hola! :)
+## Hello! :)
 
 - 🗺️ I’m currently working on maps! 
-- 🗺️ Estoy trabajando en mapas!
+Making data visualization through interactive maps
+
 
   :shipit: ✨
 
